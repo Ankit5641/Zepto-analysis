@@ -146,10 +146,7 @@ CREATE TABLE zepto (
 MIT — feel free to fork, star, and use in your portfolio.
 
 
- 
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
-- Let’s connect professionally and grow your data career
 
 
 ## 💡 Thanks for checking out the project! Your support means a lot — feel free to star ⭐ this repo or share it with someone learning SQL.🚀
